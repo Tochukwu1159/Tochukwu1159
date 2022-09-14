@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Tochukwu1159/Tochukwu1159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a solution driven software engineer passionate about creating solutions to problems. I have experience in Front and Backend (full stack) development technology and have a good knowledge of Data Structure, Software Architecture, Test Driven Development, and Agile methodology. I am currently seeking for opportunities to advance my tech career.
